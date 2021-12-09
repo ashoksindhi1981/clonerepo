@@ -2,3 +2,7 @@ function A
 {
  //A
 }
+function 2
+{
+ //2
+}
